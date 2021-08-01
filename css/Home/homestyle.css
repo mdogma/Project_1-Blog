@@ -1,7 +1,7 @@
-@import "/css/Fonts/fonts.css";
-@import "/css/Footer.css";
-@import "/css/Header.css";
-@import "/css/Spiderweb.css";
+@import "./css/Fonts/fonts.css";
+@import "./css/Footer.css";
+@import "./css/Header.css";
+@import "./css/Spiderweb.css";
 
 /* Body */
 
@@ -98,7 +98,7 @@ body {
     text-align: center;
     background-size: cover;
     background-position: center;
-    background-image: url("/images/specimen.jpg");
+    background-image: url("./images/specimen.jpg");
 }
 
 /* All cards */
@@ -119,7 +119,7 @@ body {
 #siouxsie {
     background-size: cover;
     background-position: center;
-    background-image: url("/images/siouxsie.jpg");
+    background-image: url("./images/siouxsie.jpg");
 }
 
 /* Third card */
@@ -127,7 +127,7 @@ body {
 #joydivision {
     background-size: cover;
     background-position: center;
-    background-image: url("/images/joydivision.jpg");
+    background-image: url("./images/joydivision.jpg");
 }
 
 /* Fourth Card */
@@ -135,7 +135,7 @@ body {
 #skeletal {
     background-size: cover;
     background-position: center;
-    background-image: url("/images/skeletal.jpg");
+    background-image: url("./images/skeletal.jpg");
 }
 
 /* Media queries */

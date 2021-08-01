@@ -1,0 +1,31 @@
+/* Hover for the central panel */ 
+
+.centralpanel:hover{
+    box-shadow: 7px 0px 5px -5px #ffffff;
+    transition: all 0.3s;
+}
+
+/* Hover for Header H1 */
+
+.header h1:hover,
+.header h1:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(0.1em);
+}
+
+/* Hover for Footer */
+
+.footer a:hover{
+    text-decoration:underline;
+    font-size:1.5em;
+    transition: all 0.3s;
+}
+
+/* Images hover */
+
+img.cornerweb:hover,
+img.button:hover{
+    opacity: 0.5;
+    transition: all 0.1s;
+}
+

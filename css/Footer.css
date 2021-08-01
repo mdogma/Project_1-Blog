@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 20px;
+    border-top: 2px solid black;
+    background-color: rgb(111, 117, 124);
+}
+
+.footer ul { 
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    font-size: 1.5em;
+    transition: all 0.3s;
+}
+
+.footer li {
+    display: inline-block;
+    font-family: Blackrose;
+    font-size: 1.1em;
+    margin-right: 25px;
+}

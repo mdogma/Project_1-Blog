@@ -69,25 +69,25 @@ body {
 
 /* Nav bar */
 
-.nav {
+nav {
     background-color:rgb(194, 190, 190);
     border-radius: 2px;
     margin-bottom: 20px;
     text-align: center;
 }
 
-.nav a {
+nav a {
     text-decoration: none;
     color: rgb(46, 45, 45);
     font-style: italic;
 }
 
-.nav a:hover {
+nav a:hover {
     text-decoration: underline;
     transition: 0.2s;
 }
 
-.nav li {
+nav li {
     display: inline-block;
     font-family: Blackrose;
     font-size: 1.1em;

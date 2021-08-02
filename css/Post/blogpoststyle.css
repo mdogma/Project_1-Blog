@@ -1,8 +1,8 @@
-@import "./Fonts/fonts.css";
-@import "/hoverpost.css";
-@import "./Footer.css";
-@import "./Header.css";
-@import "./Spiderweb.css";
+@import "../Fonts/fonts.css";
+@import "./hoverpost.css";
+@import "../Footer.css";
+@import "../Header.css";
+@import "../Spiderweb.css";
   
 /* Body */
 
@@ -46,7 +46,7 @@
 
 .albumcover {
     height: 300px;
-    background-image: url("/images/batastrophe.jpg");
+    background-image: url("../../images/batastrophe.jpg");
     background-size: cover;
     background-position: center;
     margin: 20px 12px 0 12px;
@@ -142,7 +142,7 @@ input[type=submit] {
 }
 
 .portrait {
-    background-image: url(/images/avatar.png);
+    background-image: url(../../images/avatar.png);
     background-size: cover;
     height: 150px;
     width: 150px;

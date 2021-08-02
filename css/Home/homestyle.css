@@ -201,3 +201,15 @@ body {
         height: 300px;
     }
     }
+
+/* Phones */ 
+
+   @media(max-width:400px){
+        .header h1{
+            font-size: 3em;
+        }
+
+        .header h2{
+            margin-top: 0;
+        }
+    }

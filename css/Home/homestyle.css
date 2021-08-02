@@ -200,16 +200,26 @@ body {
     .cover {
         height: 300px;
     }
+    
+    .header {
+       height: 100px;
+    }
+
+    .header h1{
+        font-size: 3em;
+    }
+
+    .header h2{
+        margin:0 0 35px 0;
+    }
     }
 
 /* Phones */ 
 
- @media(max-width:450px){
-     .header h1 {
-         font-size: 3em;
-    }
+    @media(max-width:300px){
 
-     .header h2 {
-         margin-top: 0;
-    }
+        .header h2{
+            font-size: 1.1em;
+            margin-top:-32px;
+        }
     }

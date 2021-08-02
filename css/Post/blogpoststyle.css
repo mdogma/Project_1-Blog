@@ -70,11 +70,6 @@
     grid-area: p3;
 }
 
-blockquote {
-    font-style: italic;
-    font-weight:bold;
-}
-
 .slider {
     grid-area: sl;
     margin: 0 10px;

@@ -1,10 +1,10 @@
-.header{
+header{
     font-family:Blackrose;
     margin-bottom:30px;
     height: 120px;
 }
 
-.header h1{
+header h1{
     text-shadow: 2px 2px 5px rgb(255, 255, 255);
     text-decoration:overline;
     font-size:4.5em; 
@@ -17,10 +17,10 @@ h3{
     text-align:center;
 }
 
-.header h2{
+header h2{
     margin-top:-44px;
 }
 
-.header h3{
+header h3{
     margin-top:-22px;
 }

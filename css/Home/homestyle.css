@@ -33,8 +33,8 @@ body {
 
 /* Hover for Header H1 */
 
-.header h1:hover,
-.header h1:focus {
+header h1:hover,
+header h1:focus {
   box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
   transform: translateY(0.1em);
 }
